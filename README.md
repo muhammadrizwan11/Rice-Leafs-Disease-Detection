@@ -36,8 +36,8 @@ This project involves object detection and classification using YOLO. The model 
 ## 🛠 Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/muhammadrizwan11/Rice-Leafs-Disease-Detection
+   cd Rice-Leafs-Disease-Detection
    ```
 2. Install dependencies:
    ```sh
