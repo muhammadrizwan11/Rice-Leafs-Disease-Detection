@@ -1,7 +1,7 @@
-# 📌 Project Title
+# 📌Rice Leaf Disease Classification
 
-A brief but attractive tagline summarizing your project.
 
+Enhancing Object Detection and Classification with YOLO – A Deep Learning-Powered Solution for Precision and Efficiency!
 ---
 
 ## 🚀 Overview
